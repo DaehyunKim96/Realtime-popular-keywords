@@ -1,0 +1,304 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 7.4.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~H
+# Last Search Pattern:
+~MSle0~/dbms.connector.bolt.
+
+# 명령 줄 히스토리 (새것부터 오래된 것 순):
+:wq
+:q!
+:Wq
+:q
+:WQ
+:qq
+:w
+:wqw
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+??dbms.connector.bolt.
+??dbms.connector
+? \<crawling\>
+? \<tag\>
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 입력 줄 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+""1	LINE	0
+	gpgcheck=1
+"2	LINE	0
+	enabled=1
+"3	LINE	0
+	baseurl=http://yum.neo4j.org
+"4	LINE	0
+	name=Neo4j Yum Repo
+"5	LINE	0
+	[neo4j]
+
+# 파일 마크:
+'0  529  0  ~/neo4j/neo4j-community-4.2.5/bin/neo4j
+'1  1  0  /tmp/myproject.sock
+'2  8  0  ~/.bashrc
+'3  7  0  ~/neo4j_query/config.py
+'4  79  23  ~/neo4j_query/delete_all_data.py
+'5  30  37  ~/airflow/dags/crawling_scheduler.py
+'6  30  37  ~/airflow/dags/test_neo4j.py
+'7  3  33  ~/kafka_tool/tmp.py
+'8  3  67  ~/kafka_tool/tmp.py
+'9  1  0  ~/kafka_tool/test.py
+
+# 점프목록 (새것이 먼저):
+-'  529  0  ~/neo4j/neo4j-community-4.2.5/bin/neo4j
+-'  1  0  ~/neo4j/neo4j-community-4.2.5/bin/neo4j
+-'  1  0  /tmp/myproject.sock
+-'  8  0  ~/.bashrc
+-'  1  0  ~/.bashrc
+-'  7  0  ~/neo4j_query/config.py
+-'  1  0  ~/neo4j_query/config.py
+-'  79  23  ~/neo4j_query/delete_all_data.py
+-'  1  0  ~/neo4j_query/delete_all_data.py
+-'  30  37  ~/airflow/dags/crawling_scheduler.py
+-'  1  0  ~/airflow/dags/crawling_scheduler.py
+-'  30  37  ~/airflow/dags/test_neo4j.py
+-'  1  0  ~/airflow/dags/test_neo4j.py
+-'  3  33  ~/kafka_tool/tmp.py
+-'  1  0  ~/kafka_tool/tmp.py
+-'  1  0  ~/kafka_tool/test.py
+-'  1  0  ~/analysis/rf.py
+-'  1  0  ~/.bash_profile
+-'  94  1  ~/neo4j/conf/neo4j.conf
+-'  331  0  ~/neo4j/conf/neo4j.conf
+-'  47  0  ~/neo4j/conf/neo4j.conf
+-'  1  0  ~/neo4j/conf/neo4j.conf
+-'  447  4  /usr/share/neo4j/bin/neo4j
+-'  1  0  /usr/share/neo4j/bin/neo4j
+-'  9  23  /usr/bin/neo4j
+-'  1  0  /usr/bin/neo4j
+-'  2  2  /etc/yum.repos.d/neo4j.repo
+-'  1  0  /etc/yum.repos.d/neo4j.repo
+-'  17  0  ~/crawling/navernews_crawler.py
+-'  129  4  ~/crawling/navernews_crawler.py
+-'  128  4  ~/crawling/navernews_crawler.py
+-'  21  4  ~/crawling/navernews_crawler.py
+-'  127  4  ~/crawling/navernews_crawler.py
+-'  1  0  ~/crawling/navernews_crawler.py
+-'  182  7  ~/crawling/daumnews_crawler.py
+-'  181  4  ~/crawling/daumnews_crawler.py
+-'  180  4  ~/crawling/daumnews_crawler.py
+-'  209  4  ~/crawling/daumnews_crawler.py
+-'  14  0  ~/crawling/daumnews_crawler.py
+-'  206  4  ~/crawling/daumnews_crawler.py
+-'  57  33  ~/crawl/navershopCrawler/naverShop.py
+-'  43  4  ~/crawl/navershopCrawler/naverShop.py
+-'  1  0  ~/crawl/navershopCrawler/csvtest/navershopCrawler/2021-04-01_new.csv
+-'  1  0  ~/.vimrc
+-'  1  0  ~/.viminfo
+-'  1  0  /etc/environment
+-'  42  4  ~/crawl/navershopCrawler/naverShop.py
+-'  12  0  ~/crawl/navershopCrawler/2021-03-31_newCount.xlsx
+-'  13  0  ~/crawl/navershopCrawler/2021-03-31_newCount.xlsx
+-'  1  0  ~/crawl/navershopCrawler/naverShop.py
+-'  1  0  ~/airflow/dags/test_dag.py
+-'  33  36  ~/airflow/dags/test_bash.py
+-'  1  0  ~/airflow/dags/test_bash.py
+-'  32  0  ~/airflow/airflow.cfg
+-'  25  0  ~/airflow/airflow.cfg
+-'  230  0  ~/airflow/airflow.cfg
+-'  590  0  ~/airflow/airflow.cfg
+-'  30  0  ~/airflow/airflow.cfg
+-'  1  0  ~/crawling/daumnews_crawler.py
+-'  5  8  ~/crawling/googletrend_crawler.py
+-'  105  4  ~/crawling/googletrend_crawler.py
+-'  103  63  ~/crawling/googletrend_crawler.py
+-'  1  0  /etc/yum.repos.d/vscode.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  0  ~/crawling/googletrend_crawler.py
+-'  1  0  ~/airflow/airflow.cfg
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  0  /etc/yum.repos.d/vscode.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  106  27  ~/crawling/googletrend_crawler.py
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  0  /etc/yum.repos.d/vscode.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  0  /etc/yum.repos.d/vscode.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  5  8  ~/crawling/googletrend_crawler.py
+-'  105  4  ~/crawling/googletrend_crawler.py
+-'  103  63  ~/crawling/googletrend_crawler.py
+-'  1  0  /etc/yum.repos.d/vscode.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  0  ~/crawling/googletrend_crawler.py
+-'  5  8  ~/crawling/googletrend_crawler.py
+-'  105  4  ~/crawling/googletrend_crawler.py
+-'  103  63  ~/crawling/googletrend_crawler.py
+-'  1  0  /etc/yum.repos.d/vscode.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  0  ~/crawling/googletrend_crawler.py
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  0  /etc/yum.repos.d/vscode.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  106  27  ~/crawling/googletrend_crawler.py
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  0  /etc/yum.repos.d/vscode.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+-'  1  0  /etc/yum.repos.d/vscode.repo
+-'  1  14  /etc/yum.repos.d/google-chrome.repo
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/neo4j/neo4j-community-4.2.5/bin/neo4j
+	"	529	0
+
+> ~/.bashrc
+	"	8	0
+	^	8	0
+	.	8	0
+	+	8	0
+
+> ~/neo4j_query/config.py
+	"	7	0
+	^	7	0
+	.	7	0
+	+	1	3
+	+	7	0
+
+> ~/neo4j_query/delete_all_data.py
+	"	79	23
+	^	79	24
+	.	80	0
+	+	80	0
+
+> ~/airflow/dags/crawling_scheduler.py
+	"	30	37
+	^	30	38
+	.	30	35
+	+	30	35
+
+> ~/airflow/dags/test_neo4j.py
+	"	30	37
+	^	30	38
+	.	30	35
+	+	30	35
+
+> ~/kafka_tool/tmp.py
+	"	3	33
+	^	3	34
+	.	3	33
+	+	3	56
+	+	3	66
+	+	3	33
+
+> ~/kafka_tool/test.py
+	"	1	0
+
+> ~/analysis/rf.py
+	"	1	0
+
+> ~/.bash_profile
+	"	1	0
+
+> ~/neo4j/conf/neo4j.conf
+	"	94	1
+	^	94	46
+	.	94	0
+	+	91	0
+	+	92	45
+	+	94	0
+
+> /usr/share/neo4j/bin/neo4j
+	"	447	4
+
+> /usr/bin/neo4j
+	"	9	23
+
+> /etc/yum.repos.d/neo4j.repo
+	"	2	2
+	^	1	7
+	.	1	3
+	+	1	0
+	+	5	0
+	+	1	3
+
+> ~/crawling/navernews_crawler.py
+	"	17	0
+	^	17	36
+	.	17	36
+	+	20	51
+	+	21	32
+	+	34	5
+	+	38	3
+	+	37	48
+	+	12	0
+	+	13	0
+	+	14	0
+	+	127	41
+	+	129	31
+	+	126	4
+	+	128	3
+	+	127	24
+	+	21	12
+	+	128	31
+	+	129	5
+	+	17	36
+
+> ~/crawling/daumnews_crawler.py
+	"	167	12
+	^	182	8
+	.	182	7
+	+	201	91
+	+	201	50
+	+	13	8
+	+	206	19
+	+	180	24
+	+	14	10
+	+	180	20
+	+	181	33
+	+	181	32
+	+	181	8
+	+	181	44
+	+	180	6
+	+	182	7
+	+	181	32
+	+	180	4
+	+	181	5
+	+	182	7
+
+> ~/crawling/youtube_crawler.py
+	"	39	4
+
+> ~/crawling/googletrend_crawler.py
+	"	39	12
+	^	5	9
+	.	5	8
+	+	103	86
+	+	103	4
+	+	103	34
+	+	103	53
+	+	104	41
+	+	105	21
+	+	5	8
+
+> ~/crawl/navershopCrawler/naverShop.py
+	"	57	33
+	^	57	34
+	.	57	33
+	+	42	64
+	+	43	4
+	+	42	42
+	+	57	33
+
+> ~/crawl/navershopCrawler/csvtest/navershopCrawler/2021-04-01_new.csv
+	"	1	0
